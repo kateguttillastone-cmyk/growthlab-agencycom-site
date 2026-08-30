@@ -1,0 +1,179 @@
+GrowthLab Agency — Contenu du site multi-pages (SEO + GEO)
+Structure confirmée : 2 packs TPE/PME (Pack Ads, Pack Visibilité Complète) + 1 pack E-commerce unique. Chaque pack a sa page dédiée pour cibler des intentions de recherche différentes.
+
+Coordonnées à utiliser sur toutes les pages :
+
+Email : contact@growthlab-agencycom.com
+Téléphone : +33 7 59 80 24 88
+Calendly : https://calendly.com/kateguttilla-growthlab-agencycom/30min
+Nom : GrowthLab Agencycom
+
+Architecture du site
+|ROW|
+Page
+URL suggérée
+Cible SEO principale
+|ROW|
+Accueil
+/
+agence marketing digital tpe pme france
+|ROW|
+Pack Ads
+/pack-ads-google-tpe-pme
+gestion google ads tpe pme
+|ROW|
+Pack Visibilité Complète
+/pack-visibilite-complete-seo-geo
+agence seo geo france
+|ROW|
+Pack E-commerce
+/pack-ecommerce
+agence google shopping ecommerce
+|ROW|
+Pourquoi GrowthLab
+/a-propos
+— (page de réassurance)
+|ROW|
+FAQ
+/faq
+questions fréquentes google ads seo pme
+|ROW|
+Contact
+/contact
+audit gratuit visibilité en ligne
+
+1. Page Accueil (/)
+Meta title : GrowthLab Agency — Agence Google Ads, SEO & GEO pour TPE, PME et E-commerçants | France Meta description : GrowthLab Agency accompagne les TPE, PME et e-commerçants français sur Google Ads, le SEO et la visibilité IA (GEO). Audit gratuit de votre présence en ligne, sans engagement.
+
+Bandeau offre flash (au-dessus du H1) :
+
+🎉 Offre de rentrée — setup initial offert (250€ économisés) pour les 5 premières entreprises qui démarrent le Pack Ads avant le 30 septembre.
+
+(à reconfirmer — voir fichier Offres_Packs)
+
+H1 : Plus de visibilité. Plus de clients. Plus de chiffre d'affaires.
+
+Sous-titre : C'est ce qu'on vous rapporte. GrowthLab Agency aide les TPE, PME et e-commerçants français à générer plus de demandes clients grâce à Google Ads, au référencement naturel (SEO) et à la visibilité sur les moteurs IA (GEO).
+
+CTA principal : [ Je veux mon audit gratuit ] → /contact CTA secondaire : [ Réserver un appel de 30 min ] → lien Calendly
+Section "Nos offres" (teaser condensé, chaque carte renvoie vers sa page dédiée)
+Pack Ads — TPE/PME 500€/mois — Gestion Google Ads + Dashboard Looker Studio + Recommandations SEO. [ En savoir plus ] → /pack-ads-google-tpe-pme
+
+Pack Visibilité Complète — TPE/PME 1 600€/mois — Ads + SEO complet + présence sur les moteurs IA. [ En savoir plus ] → /pack-visibilite-complete-seo-geo
+
+Pack E-commerce 1 200€/mois — Tracking, relance panier, fiches produits optimisées, SEO et campagnes produit. [ En savoir plus ] → /pack-ecommerce
+Section "Pourquoi GrowthLab" (condensée, lien vers page complète)
+Automatisation propriétaire, certifications, devis sous 48h. [ En savoir plus ] → /a-propos
+Section FAQ teaser (3 questions, lien vers page complète)
+Quel pack choisir pour mon entreprise ?
+Comment fonctionne la commission sur mon budget publicitaire ?
+Comment se passe l'audit gratuit ?
+
+[ Voir toutes les questions ] → /faq
+
+2. Page Pack Ads TPE/PME (/pack-ads-google-tpe-pme)
+Meta title : Gestion Google Ads pour TPE et PME — Pack Ads | GrowthLab Agency Meta description : Gestion complète de vos campagnes Google Ads dès 500€/mois : tracking GTM/GA4, fiche Google Business Profile, dashboard en temps réel et recommandations SEO incluses.
+
+H1 : Gestion Google Ads pour TPE et PME
+
+Intro : Une campagne Google Ads gérée en continu, un tracking propre dès le premier jour, et une vraie visibilité sur ce qui fonctionne.
+Ce qui est inclus
+Google Tag Manager (GTM) + Google Analytics (GA4) implémentés dès le démarrage
+Fiche Google Business Profile créée ou optimisée
+Campagne Google Ads Search gérée en continu
+Dashboard Looker Studio personnalisé, avec accès direct à vos données réelles de conversion
+Recommandations SEO mensuelles
+Landing page personnalisée incluse si besoin
+Tarifs
+Setup initial : 250€ (une fois, à la mise en route)
+Frais de gestion : 500€/mois + % du budget google ads
+Budget publicitaire réglé directement à Google
+Pour les commerces physiques (institut, artisan, commerce local...)
+Une fiche Google optimisée et une campagne qui touche les gens qui cherchent près de chez eux : plus d'appels, plus de visites sur votre site pour préparer leur venue, et plus de monde qui passe la porte.
+Questions fréquentes sur ce pack
+Est-ce que je dois avoir un site internet pour démarrer ? Non, une landing page personnalisée est incluse dans le pack si vous n'avez pas encore de support suffisant pour recevoir le trafic publicitaire.
+
+Combien de temps avant de voir des résultats ? Une campagne Google Ads Search génère du trafic dès son lancement, les premières visites sont mesurables en quelques jours.
+
+CTA : [ Demander un devis ] → /contact
+
+3. Page Pack Visibilité Complète (/pack-visibilite-complete-seo-geo)
+Meta title : Agence SEO et GEO pour PME — Visibilité complète Google + IA | GrowthLab Agency Meta description : Référencement naturel (SEO) et optimisation pour les moteurs IA (GEO) pour votre PME. Ads, SEO et présence ChatGPT/Perplexity dans une seule offre.
+
+H1 : Soyez visible partout où vos clients cherchent — Google, et maintenant l'IA
+
+Intro : De plus en plus de recherches passent par ChatGPT, Perplexity ou les résumés IA de Google. Le Pack Visibilité Complète construit votre présence sur les deux fronts en même temps.
+Ce qui est inclus
+Tout le Pack Ads (Google Ads, tracking, dashboard), plus :
+
+SEO complet : optimisation technique, contenu, netlinking
+GEO : optimisation de votre présence sur les moteurs IA génératifs
+Tarifs
+Setup + audit SEO/GEO initial : 750€ (une fois)
+Frais de gestion : 1 600€/mois
+Budget publicitaire réglé directement à Google — frais de gestion additionnels selon le volume, précisés en devis
+Pourquoi le GEO, maintenant
+Être identifié comme source fiable par les moteurs IA aujourd'hui, pendant que peu d'entreprises françaises s'y intéressent encore, est un avantage qui devient plus coûteux à rattraper chaque mois qui passe.
+
+CTA : [ Demander un devis ] → /contact
+
+4. Page Pack E-commerce (/pack-ecommerce)
+Meta title : Agence Google Shopping et SEO pour E-commerce TPE/PME | GrowthLab Agency Meta description : Tracking, relance panier abandonné, fiches produits optimisées et campagnes Shopping pour votre boutique en ligne. Pack complet dès 1 200€/mois.
+
+H1 : Récupérez les ventes que votre boutique en ligne laisse filer
+
+Intro : Panier abandonné, tracking mal configuré, fiches produits invisibles sur Google : ce sont souvent les pertes silencieuses qui coûtent le plus cher. Le Pack E-commerce s'attaque aux trois en même temps.
+Ce qui est inclus
+Tracking complet : Pixel Meta + Google Tag Manager / GA4
+Séquence de relance panier abandonné automatisée
+Optimisation des fiches produits — sert à la fois le SEO et la qualité du flux Google Shopping
+Campagne publicitaire orientée produit : Google Shopping ou Meta Ads
+SEO (pages catégories, structure du site, contenu)
+Reporting mensuel
+Tarifs
+Setup initial : 350€ (une fois)
+Frais de gestion : 1 200€/mois
+Budget publicitaire réglé directement à Google/Meta — frais de gestion additionnels selon le volume, précisés en devis
+
+CTA : [ Demander un devis ] → /contact
+
+5. Page Pourquoi GrowthLab (/a-propos)
+Meta title : Pourquoi GrowthLab Agency — Notre approche | GrowthLab Agency Meta description : Une agence marketing digital construite pour les TPE, PME et e-commerçants français : automatisation propriétaire, transparence, réponse rapide.
+
+H1 : Une agence pensée pour les entreprises qui n'ont pas de temps à perdre
+
+Automatisation propriétaire — un système de scoring et de suivi construit sur-mesure
+Certifications [à compléter selon celles réellement détenues]
+Devis sous 48h
+
+6. Page FAQ (/faq)
+Meta title : Questions fréquentes — Google Ads, SEO, GEO | GrowthLab Agency Meta description : Réponses aux questions les plus fréquentes sur nos packs Ads, Visibilité Complète et E-commerce.
+
+Quel pack choisir pour mon entreprise ? Le Pack Ads convient si vous démarrez sur Google Ads avec un besoin de tracking propre. Le Pack Visibilité Complète s'adresse aux entreprises qui veulent aussi être visibles sur les moteurs IA (ChatGPT, Perplexity) en plus de Google. Pour les e-commerçants, le Pack E-commerce couvre Ads, SEO et optimisation des fiches produits en une seule offre.
+
+Comment fonctionne la commission sur mon budget publicitaire ? En plus du forfait mensuel, une commission s'applique sur le budget publicitaire géré, réglé directement par vous à Google ou Meta. Le taux exact vous est communiqué par écrit dans votre devis personnalisé.
+
+Combien de temps avant de voir des résultats ? Une campagne Google Ads génère du trafic dès son lancement. Le SEO, inclus dans le Pack Visibilité Complète et le Pack E-commerce, prend plusieurs mois avant de produire des résultats mesurables.
+
+Est-ce que je m'engage sur une durée minimum avec GrowthLab ? [à préciser une fois le contrat rédigé — voir fichier Roadmap]
+
+Comment se passe l'audit gratuit ? Il suffit de renseigner le nom et le site de votre entreprise sur la page Contact. GrowthLab analyse automatiquement votre présence en ligne et vous transmet les résultats.
+
+7. Page Contact (/contact)
+Meta title : Contact & Audit gratuit | GrowthLab Agency Meta description : Demandez votre audit gratuit de présence en ligne ou réservez un appel de 30 minutes avec GrowthLab Agency.
+
+H1 : Je veux mon audit gratuit
+
+Sous-titre : Renseignez le nom et le site de votre entreprise, GrowthLab analyse votre présence en ligne et vous transmet les résultats.
+
+Formulaire : Nom de l'entreprise / Site web / Email
+
+Ou réservez directement un appel : [ Réserver un appel de 30 min ] → Calendly
+
+Coordonnées :
+
+Email : contact@growthlab-agencycom.com
+Téléphone : +33 7 59 80 24 88
+
+8. Données structurées (schema.org) — à insérer sur toutes les pages
+```json { "@context": "https://schema.org", "@type": "Organization", "name": "GrowthLab Agencycom", "email": "contact@growthlab-agencycom.com", "telephone": "+33759802488", "areaServed": "FR", "description": "Agence marketing digital pour TPE, PME et e-commerçants français : Google Ads, SEO et GEO.", "makesOffer": [ { "@type": "Offer", "name": "Pack Ads TPE/PME", "price": "500", "priceCurrency": "EUR" }, { "@type": "Offer", "name": "Pack Visibilité Complète", "price": "1600", "priceCurrency": "EUR" }, { "@type": "Offer", "name": "Pack E-commerce", "price": "1200", "priceCurrency": "EUR" } ] } ```
