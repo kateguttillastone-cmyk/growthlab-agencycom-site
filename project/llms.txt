@@ -6,7 +6,7 @@ GrowthLab Agencycom gère des campagnes Google Ads et Meta Ads, optimise le réf
 
 ## Offres
 - [Nos offres](https://growthlab-agencycom.com/offres/) : présentation des services Google Ads, Meta Ads, SEO/GEO et e-commerce.
-- [Nos packs](https://growthlab-agencycom.com/packs/) : Pack Ads TPE/PME (500€/mois), Pack Visibilité Complète SEO/GEO (1 600€/mois), Pack E-commerce (1 200€/mois).
+- [Nos packs](https://growthlab-agencycom.com/packs/) : Pack Ads TPE/PME (500€/mois), Pack Visibilité Complète SEO/GEO (1 600€/mois), Pack E-commerce (2 000€/mois).
 - [Pack Ads TPE/PME](https://growthlab-agencycom.com/pack-ads-google-tpe-pme/) : gestion Google Ads, tracking GTM/GA4, dashboard Looker Studio.
 - [Pack Visibilité Complète](https://growthlab-agencycom.com/pack-visibilite-complete-seo-geo/) : Ads + SEO complet + optimisation GEO (moteurs IA).
 - [Pack E-commerce](https://growthlab-agencycom.com/pack-ecommerce/) : tracking, relance panier abandonné, fiches produits, Google Shopping.
