@@ -1,0 +1,28 @@
+# GrowthLab Agencycom
+
+> Agence marketing digital pour TPE, PME et e-commerçants français : Google Ads, SEO et GEO (visibilité sur les moteurs IA génératifs). France, remote.
+
+GrowthLab Agencycom gère des campagnes Google Ads et Meta Ads, optimise le référencement naturel (SEO) et la visibilité sur les moteurs de réponse IA (ChatGPT, Perplexity, AI Overviews), et accompagne les e-commerçants sur Google Shopping. Positionnement : transparence sur les budgets publicitaires (réglés directement par le client aux plateformes), propriété à 100% des comptes et données du client, audit initial gratuit.
+
+## Offres
+- [Nos offres](https://growthlab-agencycom.com/offres/) : présentation des services Google Ads, Meta Ads, SEO/GEO et e-commerce.
+- [Nos packs](https://growthlab-agencycom.com/packs/) : Pack Ads TPE/PME (500€/mois), Pack Visibilité Complète SEO/GEO (1 600€/mois), Pack E-commerce (1 200€/mois).
+- [Pack Ads TPE/PME](https://growthlab-agencycom.com/pack-ads-google-tpe-pme/) : gestion Google Ads, tracking GTM/GA4, dashboard Looker Studio.
+- [Pack Visibilité Complète](https://growthlab-agencycom.com/pack-visibilite-complete-seo-geo/) : Ads + SEO complet + optimisation GEO (moteurs IA).
+- [Pack E-commerce](https://growthlab-agencycom.com/pack-ecommerce/) : tracking, relance panier abandonné, fiches produits, Google Shopping.
+
+## Agence
+- [Pourquoi GrowthLab](https://growthlab-agencycom.com/pourquoi-nous/) : approche data-driven et engagements écrits (propriété des comptes, reporting mensuel, aucun frais caché, pas d'engagement de longue durée, audit initial gratuit).
+- [FAQ](https://growthlab-agencycom.com/faq/) : réponses aux questions fréquentes sur les packs et le fonctionnement de la commission publicitaire.
+- [Contact](https://growthlab-agencycom.com/contact/) : demande d'audit gratuit de présence en ligne.
+
+## Blog
+- [SEO vs GEO : être visible sur Google, ChatGPT et Perplexity en 2026](https://growthlab-agencycom.com/blog/seo-vs-geo-visibilite-ia/)
+- [Comment se passe un audit SEO gratuit](https://growthlab-agencycom.com/blog/audit-seo-gratuit/)
+- [Améliorer son référencement naturel : les bases pour une TPE/PME](https://growthlab-agencycom.com/blog/ameliorer-referencement-naturel/)
+- [Combien coûte une campagne Google Ads en 2026](https://growthlab-agencycom.com/blog/combien-coute-une-campagne-google-ads/)
+- [Google Ads ou Meta Ads : lequel choisir pour une PME](https://growthlab-agencycom.com/blog/google-ads-ou-meta-ads/)
+- [Comment améliorer son ROAS e-commerce](https://growthlab-agencycom.com/blog/ameliorer-roas-ecommerce/)
+
+## Autres
+- [Mentions légales](https://growthlab-agencycom.com/mentions-legales/)

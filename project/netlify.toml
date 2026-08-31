@@ -1,3 +1,9 @@
 [build]
   publish = "."
   functions = "netlify/functions"
+
+[[redirects]]
+  from = "/nos-engagements/*"
+  to = "/pourquoi-nous/"
+  status = 301
+  force = true
